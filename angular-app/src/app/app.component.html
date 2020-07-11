@@ -1,0 +1,13 @@
+<mat-toolbar class="navbar" color="primary">
+  <button mat-button routerLink="/" [ngStyle]="{'min-width': '.3vh'}"><mat-icon aria-hidden="false" aria-label="Home Icon">home</mat-icon></button>
+  <button mat-button routerLink="/about">About</button>
+  <button mat-button routerLink="/comp-games">Competitive Games</button>
+<!--  <button mat-button routerLink="/news">News</button>-->
+  <button mat-button routerLink="/contact">Contact</button>
+</mat-toolbar>
+<div class="content">
+  <router-outlet></router-outlet>
+</div>
+<!--<div class="quick-contact" [ngStyle]="{'position': 'relative','height': '5vh','padding-top': '1vh'}">-->
+<!--  <mat-icon svgIcon="oswego" aria-hidden="false" aria-label="Example thumbs up SVG icon"></mat-icon>-->
+<!--</div>-->

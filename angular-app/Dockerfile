@@ -8,7 +8,7 @@ COPY . .
 CMD [ "npm", "run", "ng", "build", "--", "--prod", "--deploy-url=/"]
 
 # Stage 2: nginx run
-FROM nginx:alpine AS nginxtest
+FROM nginx:alpine
 
 COPY ./.nginx/nginx.conf /etc/nginx/nginx.conf
 RUN  rm -rf /usr/share/nginx/html/*

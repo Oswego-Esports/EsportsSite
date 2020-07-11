@@ -22,6 +22,7 @@ import {MatIconModule} from '@angular/material/icon';
 import { NewsComponent } from './components/news/news.component';
 import {HttpClient, HttpClientModule} from '@angular/common/http';
 import {MatChipsModule} from '@angular/material/chips';
+import {MatGridListModule} from '@angular/material/grid-list';
 
 @NgModule({
   declarations: [
@@ -48,7 +49,8 @@ import {MatChipsModule} from '@angular/material/chips';
         MatListModule,
         MatIconModule,
         HttpClientModule,
-        MatChipsModule
+        MatChipsModule,
+        MatGridListModule
     ],
   providers: [],
   bootstrap: [AppComponent]

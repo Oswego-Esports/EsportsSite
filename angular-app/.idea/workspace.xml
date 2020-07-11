@@ -11,7 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e8c4df-8a3b-4977-9690-cc968aaaa3ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testJson/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/comp-games/comp-games.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/comp-games/comp-games.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +32,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1dVGxW3mt7V9VkCuORLCwjywYSZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../esportsSiteTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -66,7 +70,7 @@
       <recent name="$PROJECT_DIR$/src/assets" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Build to Production">
+  <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="E2E Tests (esportsSite)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
@@ -98,10 +102,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Protractor.E2E Tests (esportsSite)" />
       <item itemvalue="JavaScript Debug.Angular Application" />
       <item itemvalue="npm.Angular CLI Server" />
       <item itemvalue="npm.Build to Production" />
+      <item itemvalue="Protractor.E2E Tests (esportsSite)" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -127,6 +131,9 @@
       <workItem from="1594359239712" duration="28000" />
       <workItem from="1594359910189" duration="327000" />
       <workItem from="1594360253965" duration="10000" />
+      <workItem from="1594446913535" duration="16000" />
+      <workItem from="1594446985306" duration="238000" />
+      <workItem from="1594447235118" duration="329000" />
     </task>
     <servers />
   </component>
@@ -166,22 +173,22 @@
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="268" y="276" width="424" height="483" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1594360261383" />
-    <state width="1897" height="272" key="GridCell.Tab.0.bottom" timestamp="1594360235867">
+    <state width="937" height="272" key="GridCell.Tab.0.bottom" timestamp="1594447222798">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1897" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1594360235867" />
-    <state width="1897" height="272" key="GridCell.Tab.0.center" timestamp="1594360235866">
+    <state width="937" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1594447222798" />
+    <state width="937" height="272" key="GridCell.Tab.0.center" timestamp="1594447222798">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1897" height="272" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1594360235866" />
-    <state width="1897" height="272" key="GridCell.Tab.0.left" timestamp="1594360235866">
+    <state width="937" height="272" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1594447222798" />
+    <state width="937" height="272" key="GridCell.Tab.0.left" timestamp="1594447222798">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1897" height="272" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1594360235866" />
-    <state width="1897" height="272" key="GridCell.Tab.0.right" timestamp="1594360235866">
+    <state width="937" height="272" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1594447222798" />
+    <state width="937" height="272" key="GridCell.Tab.0.right" timestamp="1594447222798">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1897" height="272" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1594360235866" />
+    <state width="937" height="272" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1594447222798" />
     <state x="579" y="157" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592591052369">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>

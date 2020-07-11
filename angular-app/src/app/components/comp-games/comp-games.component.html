@@ -1,8 +1,10 @@
-<div class="grid" [ngStyle]="{'position': 'relative', 'top': '10px'}">
-  <mat-card class="game-card " [ngStyle]="{'cursor': 'pointer'}" *ngFor="let game of games.sort()" routerLink="{{game.link}}">
-    <img mat-card-image src="{{game.image}}" alt="{{game.name}} Image">
-    <mat-card-content>
-      <p>{{game.name}}</p>
-    </mat-card-content>
-  </mat-card>
-</div>
+<mat-grid-list cols="5">
+  <mat-grid-tile *ngFor="let game of games.sort()">
+    <mat-card [ngStyle]="{'cursor': 'pointer'}" class="game-card " routerLink="{{game.link}}">
+      <img alt="{{game.name}} Image" mat-card-image src="{{game.image}}">
+      <mat-card-content>
+        <p>{{game.name}}</p>
+      </mat-card-content>
+    </mat-card>
+  </mat-grid-tile>
+</mat-grid-list>
